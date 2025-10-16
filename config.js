@@ -15,7 +15,7 @@ var config = {
     //      温馨警告:
     //          1.时分秒都必须是俩个数字  比如 00:00:00
     //          2.T不能丢了
-    date: "2024-12-15T21:13:014",
+    date: "2024-12-15T21:13:14",
     // 双方的名字
-    names: ["xiaoze", "xiaoyan"]
+    names: ["XiaoZe", "XiaoYan"]
 }
